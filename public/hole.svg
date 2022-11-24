@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="512px" height="512px" viewBox="0 0 512 512" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <title>512x512@1x</title>
+    <title>HoleBook@1x</title>
     <defs>
         <linearGradient x1="50%" y1="0%" x2="50%" y2="114.068512%" id="linearGradient-1">
             <stop stop-color="#41B983" offset="0%"></stop>
@@ -8,47 +8,47 @@
             <stop stop-color="#73FFC0" offset="0.295766203%"></stop>
             <stop stop-color="#41B983" offset="100%"></stop>
         </linearGradient>
-        <text id="text-2" font-family="DFWaWaSC-W5, Wawati SC" font-size="164" font-weight="normal" fill="#FFFFFF">
-            <tspan x="168" y="254">H</tspan>
-        </text>
-        <filter x="-10.3%" y="-4.3%" width="120.6%" height="109.6%" filterUnits="objectBoundingBox" id="filter-3">
+        <path d="M13.776,0.82 C12.136,0.328 10.332,0 8.528,0 C7.544,0 5.412,0.164 2.296,0.492 C0.656,28.7 0,51.66 0,69.372 C0,91.02 0.164,104.304 0.492,109.552 C2.624,109.88 4.264,110.044 5.412,110.044 C8.036,110.044 10.004,109.88 11.316,109.224 C11.972,85.772 12.464,65.6 12.792,48.708 C13.284,27.06 13.612,10.988 13.776,0.82 Z M89.544,6.396 C87.084,6.068 85.116,5.904 83.804,5.904 C81.18,6.068 79.704,6.232 79.212,6.396 C78.556,15.908 77.9,30.504 77.244,49.856 C70.356,49.528 63.14,49.364 55.76,49.2 C46.576,49.2 37.064,49.364 27.224,49.364 C26.732,50.184 26.568,51.988 26.568,54.612 C26.568,57.236 26.896,58.876 27.388,59.696 C35.752,60.352 52.316,60.844 76.916,61.336 C76.916,72.488 76.916,83.476 76.916,94.464 C76.916,100.368 77.244,104.796 77.572,108.076 C79.212,108.404 81.016,108.568 82.984,108.568 C84.952,108.568 86.592,108.404 87.904,107.912 C88.56,99.548 89.052,76.752 89.708,39.524 C89.708,23.78 89.544,12.628 89.544,6.396 Z" id="path-2"></path>
+        <filter x="-12.3%" y="-9.1%" width="124.5%" height="120.0%" filterUnits="objectBoundingBox" id="filter-3">
             <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
             <feGaussianBlur stdDeviation="3.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
             <feColorMatrix values="0 0 0 0 0.268674989   0 0 0 0 0.268674989   0 0 0 0 0.268674989  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
         </filter>
-        <text id="text-4" font-family="DFWaWaSC-W5, Wawati SC" font-size="163" font-weight="normal" fill="#FFFFFF">
-            <tspan x="205" y="354">L</tspan>
-        </text>
-        <filter x="-12.8%" y="-4.4%" width="125.6%" height="109.6%" filterUnits="objectBoundingBox" id="filter-5">
+        <path d="M72.535,101.712 C72.535,99.43 72.209,97.637 71.72,96.496 C61.288,97.148 51.508,97.311 42.38,97.311 C31.622,97.311 21.679,96.985 12.388,96.007 C12.388,81.663 12.714,65.037 13.692,46.292 L16.3,1.141 C15.159,0.489 13.366,0 10.758,0 C7.824,0 6.194,0.163 5.542,0.326 C1.793,24.776 -1.13686838e-13,52.16 -1.13686838e-13,82.478 C-1.13686838e-13,92.421 0.163,100.245 0.652,105.95 C7.172,107.906 19.234,108.884 36.512,108.884 C52.812,108.884 64.711,108.232 72.209,106.765 C72.372,106.276 72.535,104.646 72.535,101.712 Z" id="path-4"></path>
+        <filter x="-15.2%" y="-9.2%" width="130.3%" height="120.2%" filterUnits="objectBoundingBox" id="filter-5">
             <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
             <feGaussianBlur stdDeviation="3.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
             <feColorMatrix values="0 0 0 0 0.268674989   0 0 0 0 0.268674989   0 0 0 0 0.268674989  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
         </filter>
-        <text id="text-6" font-family="DFWaWaSC-W5, Wawati SC" font-size="163" font-weight="normal" fill="#FFFFFF">
-            <tspan x="243" y="354">E</tspan>
-        </text>
-        <filter x="-10.8%" y="-4.4%" width="121.6%" height="109.6%" filterUnits="objectBoundingBox" id="filter-7">
+        <path d="M88.672,6.52 C88.672,4.89 88.509,3.26 88.346,1.63 C75.469,0.652 61.614,0 46.618,0 C32.6,0 17.604,0.489 1.467,1.304 C0.978,2.934 0.815,4.727 0.815,6.683 C0.815,7.009 0.978,8.639 1.467,11.573 C5.705,12.062 13.692,12.225 25.428,12.225 C56.724,12.225 77.751,12.062 88.346,11.41 C88.509,10.432 88.672,8.802 88.672,6.52 Z M78.892,100.571 C78.892,97.963 78.566,96.333 78.24,95.681 C65.852,95.518 53.301,95.355 40.587,95.192 C30.481,95.192 21.353,94.866 13.203,93.888 C12.225,79.544 11.736,67.971 11.736,58.843 C26.895,59.332 42.054,59.495 57.213,59.495 C59.006,59.495 61.94,59.332 65.852,59.006 C66.504,57.05 66.83,55.42 66.83,53.79 C66.83,51.345 66.504,49.715 66.178,49.063 C62.918,48.248 44.825,47.596 12.062,46.944 L12.388,21.353 C11.573,20.701 9.617,20.375 6.357,20.375 C3.749,20.375 1.956,20.538 1.304,20.864 C0.326,32.111 0,47.27 0,66.341 C0,78.892 0.978,91.443 2.771,104.157 C7.498,105.787 20.375,106.928 41.565,107.254 C59.332,107.254 71.557,106.602 78.403,105.298 C78.729,104.157 78.892,102.527 78.892,100.571 Z" id="path-6"></path>
+        <filter x="-12.4%" y="-9.3%" width="124.8%" height="120.5%" filterUnits="objectBoundingBox" id="filter-7">
             <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
             <feGaussianBlur stdDeviation="3.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
             <feColorMatrix values="0 0 0 0 0.268674989   0 0 0 0 0.268674989   0 0 0 0 0.268674989  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
         </filter>
     </defs>
-    <g id="512x512" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <circle id="椭圆形" fill="url(#linearGradient-1)" cx="255.5" cy="256" r="256"></circle>
-        <text id="O" font-family="DFWaWaSC-W5, Wawati SC" font-size="654" font-weight="normal" fill="#FFFFFF">
-            <tspan x="10" y="475">O</tspan>
-        </text>
-        <g id="H" fill="#FFFFFF" fill-opacity="1">
-            <use filter="url(#filter-3)" xlink:href="#text-2"></use>
-            <use xlink:href="#text-2"></use>
+    <g id="HoleBook" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <circle id="BG" fill="url(#linearGradient-1)" cx="255.5" cy="256" r="256"></circle>
+        <g id="O" transform="translate(36.160000, 35.512000)" fill="#FFFFFF" fill-rule="nonzero">
+            <path d="M439.488,238.71 C439.488,162.846 411.366,103.332 355.122,61.476 C351.852,64.092 347.274,68.016 340.734,73.248 C334.848,79.788 330.924,85.674 328.962,90.906 C351.198,113.142 366.894,134.724 376.704,156.96 C384.552,179.85 389.13,206.01 389.13,234.786 C389.13,262.254 380.628,289.068 364.932,316.536 C347.928,339.426 325.692,358.392 298.224,373.434 C300.84,387.822 306.726,400.248 315.882,411.366 C351.852,399.594 381.936,377.358 406.788,344.658 C427.716,313.266 438.834,277.95 439.488,238.71 Z M317.844,28.122 C281.874,9.81 247.212,5.68434189e-14 213.858,5.68434189e-14 C157.614,5.68434189e-14 107.91,20.274 64.746,59.514 C21.582,105.294 0,156.306 0,213.858 C0,279.912 15.696,332.232 47.742,370.818 C90.906,419.214 145.842,442.758 213.204,442.758 C230.862,442.758 251.136,437.526 274.68,427.062 C272.718,412.674 268.794,400.248 262.254,388.476 C245.25,393.708 228.9,396.324 213.204,396.324 C164.808,396.324 123.606,378.012 90.252,342.696 C63.438,311.958 50.358,271.41 50.358,221.052 C50.358,172.656 66.708,129.492 100.716,92.214 C132.762,62.13 170.694,47.088 214.512,47.088 C242.634,47.088 270.756,54.282 299.532,68.67 C302.802,64.746 306.726,58.206 311.304,48.396 C315.228,39.894 317.844,33.354 317.844,28.122 Z" id="形状"></path>
         </g>
-        <g id="L" fill="#FFFFFF" fill-opacity="1">
-            <use filter="url(#filter-5)" xlink:href="#text-4"></use>
-            <use xlink:href="#text-4"></use>
+        <g id="H" transform="translate(176.200000, 144.120000)" fill-rule="nonzero">
+            <g id="形状">
+                <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-2"></use>
+                <use fill="#FFFFFF" xlink:href="#path-2"></use>
+            </g>
         </g>
-        <g id="E" fill="#FFFFFF" fill-opacity="1">
-            <use filter="url(#filter-7)" xlink:href="#text-6"></use>
-            <use xlink:href="#text-6"></use>
+        <g id="L" transform="translate(213.150000, 244.790000)" fill-rule="nonzero">
+            <g id="路径">
+                <use fill="black" fill-opacity="1" filter="url(#filter-5)" xlink:href="#path-4"></use>
+                <use fill="#FFFFFF" xlink:href="#path-4"></use>
+            </g>
+        </g>
+        <g id="E" transform="translate(251.150000, 246.094000)" fill-rule="nonzero">
+            <g id="形状">
+                <use fill="black" fill-opacity="1" filter="url(#filter-7)" xlink:href="#path-6"></use>
+                <use fill="#FFFFFF" xlink:href="#path-6"></use>
+            </g>
         </g>
     </g>
 </svg>
