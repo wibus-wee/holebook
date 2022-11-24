@@ -44,6 +44,7 @@ jobs:
       - name: GitHub Pages
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
           # Build directory to deploy
           build_dir: dist
           # Write the given domain name to the CNAME file
