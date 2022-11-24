@@ -41,10 +41,12 @@ jobs:
           mkdir -p dist
           cp -r docs/.vitepress/dist/* dist/
           echo 'notebook.iucky.cn' > dist/CNAME
-      - name: Deploy
-        uses: peaceiris/actions-gh-pages@v3
+      - name: GitHub Pages
+        uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: dist
+          # Build directory to deploy
+          build_dir: dist
+          # Write the given domain name to the CNAME file
+          fqdn: true
     env:
       CI: true
