@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="512px" height="512px" viewBox="0 0 512 512" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>512x512@1x</title>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="114.068512%" id="linearGradient-1">
+            <stop stop-color="#41B983" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#73FFC0" offset="0.295766203%"></stop>
+            <stop stop-color="#41B983" offset="100%"></stop>
+        </linearGradient>
+        <text id="text-2" font-family="DFWaWaSC-W5, Wawati SC" font-size="164" font-weight="normal" fill="#FFFFFF">
+            <tspan x="168" y="254">H</tspan>
+        </text>
+        <filter x="-10.3%" y="-4.3%" width="120.6%" height="109.6%" filterUnits="objectBoundingBox" id="filter-3">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="3.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.268674989   0 0 0 0 0.268674989   0 0 0 0 0.268674989  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <text id="text-4" font-family="DFWaWaSC-W5, Wawati SC" font-size="163" font-weight="normal" fill="#FFFFFF">
+            <tspan x="205" y="354">L</tspan>
+        </text>
+        <filter x="-12.8%" y="-4.4%" width="125.6%" height="109.6%" filterUnits="objectBoundingBox" id="filter-5">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="3.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.268674989   0 0 0 0 0.268674989   0 0 0 0 0.268674989  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <text id="text-6" font-family="DFWaWaSC-W5, Wawati SC" font-size="163" font-weight="normal" fill="#FFFFFF">
+            <tspan x="243" y="354">E</tspan>
+        </text>
+        <filter x="-10.8%" y="-4.4%" width="121.6%" height="109.6%" filterUnits="objectBoundingBox" id="filter-7">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="3.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.268674989   0 0 0 0 0.268674989   0 0 0 0 0.268674989  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="512x512" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <circle id="椭圆形" fill="url(#linearGradient-1)" cx="255.5" cy="256" r="256"></circle>
+        <text id="O" font-family="DFWaWaSC-W5, Wawati SC" font-size="654" font-weight="normal" fill="#FFFFFF">
+            <tspan x="10" y="475">O</tspan>
+        </text>
+        <g id="H" fill="#FFFFFF" fill-opacity="1">
+            <use filter="url(#filter-3)" xlink:href="#text-2"></use>
+            <use xlink:href="#text-2"></use>
+        </g>
+        <g id="L" fill="#FFFFFF" fill-opacity="1">
+            <use filter="url(#filter-5)" xlink:href="#text-4"></use>
+            <use xlink:href="#text-4"></use>
+        </g>
+        <g id="E" fill="#FFFFFF" fill-opacity="1">
+            <use filter="url(#filter-7)" xlink:href="#text-6"></use>
+            <use xlink:href="#text-6"></use>
+        </g>
+    </g>
+</svg>
