@@ -23,17 +23,17 @@
     "noUnusedLocals": true,
     "paths": {
       "/@theme/*": [
-        "docs/.vitepress/theme/*"
+        ".vitepress/theme/*"
       ],
       "~/*": [
-        "docs/.vitepress/*"
+        ".vitepress/*"
       ]
     }
   },
   "include": [
     "env.d.ts",
     "docs/**/*",
-    "docs/.vitepress/**/*",
+    ".vitepress/**/*",
     "vite.config.ts"
   ]
 }
