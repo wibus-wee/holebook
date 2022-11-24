@@ -69,8 +69,8 @@ ul#nav {
 
 ## 参考资料
 
-- https://domhabersack.com/high-performance-css
-- https://shauninman.com/archive/2008/05/05/css_qualified_selectors#comment_3942
-- https://css-tricks.com/efficiently-rendering-css/
-- https://developer.mozilla.org/en-US/docs/MDN/Writing_guidelines/Writing_style_guide/Code_style_guide/CSS
-- https://blog.zwying.com/archives/70.html
+- [domhabersack](https://domhabersack.com/high-performance-css)
+- [shauninman](https://shauninman.com/archive/2008/05/05/css_qualified_selectors#comment_3942)
+- [CSS Tricks](https://css-tricks.com/efficiently-rendering-css/)
+- [Mozilla](https://developer.mozilla.org/en-US/docs/MDN/Writing_guidelines/Writing_style_guide/Code_style_guide/CSS)
+- [zwying](https://blog.zwying.com/archives/70.html)
