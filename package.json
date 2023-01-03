@@ -20,7 +20,7 @@
   },
   "devDependencies": {
     "typescript": "^4.9.3",
-    "vitepress": "1.0.0-alpha.29",
+    "vitepress": "1.0.0-alpha.35",
     "vue": "^3.2.45"
   }
 }
